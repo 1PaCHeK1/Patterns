@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+IvUGr/GuT4zsIrZ5/SI/9nEWGk6F3OUIOwIXXlIyxKHBhMSts9r6UUdUxMCQNE/rQ6EVOnE6tMK/tUpqn2sGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maksu\\source\\repos\\patterns\\Patterns\\TemplateMethod\\TemplateMethod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maksu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

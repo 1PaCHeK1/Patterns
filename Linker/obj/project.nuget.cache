@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CEgoRpvCS/UITKj4xO9uRt7Qyb1fA25KUflFgqoycok+D7qP1cySBYj71IL+t7mdq9PTFU/tXfxhcRZ1LHx7Ig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maksu\\source\\repos\\patterns\\Patterns\\Linker\\Linker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maksu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
